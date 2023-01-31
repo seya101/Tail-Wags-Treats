@@ -82,16 +82,24 @@
             <p class="text-4xl text-white font-bold">Brands we stock</p>
             <p class="text-white">Offer exclusive promotions and discounts for certain brands</p>
         </div>
-        <div class="md:w-2/3 w-full flex justify-center md:justify-start bg-white rounded-xl p-10">
+        <!-- <div class="md:w-2/3 w-full flex justify-center md:justify-start bg-white rounded-xl p-10">
             <img class="w-20 h-20 " src="/logo1.png" alt="Logo 1">
             <img class="w-auto h-20 ml-10" src="/logo2.png" alt="Logo 2">
             <img class="w-auto h-20 ml-10" src="/logo3.png" alt="Logo 3">
-            <!-- <img class="w-auto h-20 object-cover ml-10" src="/logo4.png" alt="Logo 4">
+        </div> -->
+        <div class="md:w-2/3 w-full flex flex-wrap flex-row justify-center bg-white rounded-xl p-10 ">
+            <img class="w-auto h-20 " src="/logo1.png" alt="Logo 1">
+            <img class="w-auto h-20 ml-10" src="/logo2.png" alt="Logo 2">
+            <img class="w-auto h-20 ml-10" src="/logo3.png" alt="Logo 3">
+            <img class="w-auto h-20 object-cover ml-10" src="/logo4.png" alt="Logo 4">
             <img class="w-auto h-20 object-cover ml-10" src="/logo5.png" alt="Logo 5">
-            <img class="w-auto h-20 object-cover ml-10" src="/logo6.png" alt="Logo 6"> -->
+            <img class="w-auto h-20 object-cover ml-10" src="/logo6.png" alt="Logo 6">
         </div>
     </div>
 
+    <!-- Footer -->
+    <Footer />
+    
 
 </div>
 </template>
