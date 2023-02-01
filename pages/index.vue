@@ -4,7 +4,7 @@
 
     <!-- Hero -->
     <div class="px-5 xl:px-10 my-28">
-        <div class="flex flex-col text-center md:text-left md:flex-row  md:items-center">
+        <div class="flex flex-col text-center md:text-left md:flex-row md:items-center">
             <div class="flex flex-col w-full">
             <h1 class="text-7xl text-white font-bold">Get the clawsome <br> goods for your pets</h1>
             <p class="w-5/12 mx-auto md:mx-0 text-white my-5">
@@ -15,7 +15,7 @@
             </div>
             </div>
 
-            <div class="w-full mx-auto md:mx-0 ">
+            <div class="flex flex-col w-1/2 mx-auto md:mx-0 ">
             <img src="/doggie1.png" alt="" >
             </div>
         </div>
@@ -23,9 +23,9 @@
 
     <!-- About -->
     <div class="bg-[#FBF3DF] px-6 mx-auto">
-    <div class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto text-gray-900">
+    <div class="max-w-screen-xl px-8 grid gap-10 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto text-gray-900">
     <div class="flex flex-col justify-center">
-        <img src="/about.jpg" alt="" class="">
+        <img src="/about.jpg" alt="" class="rounded-xl">
     </div>
     <div class="">
         <div class="flex flex-col w-full">
