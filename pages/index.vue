@@ -3,10 +3,8 @@
     <Navbar />
 
     <!-- Hero -->
-    <div class="px-5 xl:px-10">
-        <div
-            class="flex flex-col text-center md:text-left md:flex-row h-screen justify-evenly md:items-center"
-        >
+    <div class="px-5 xl:px-10 my-28">
+        <div class="flex flex-col text-center md:text-left md:flex-row  md:items-center">
             <div class="flex flex-col w-full">
             <h1 class="text-7xl text-white font-bold">Get the clawsome <br> goods for your pets</h1>
             <p class="w-5/12 mx-auto md:mx-0 text-white my-5">
@@ -17,31 +15,28 @@
             </div>
             </div>
 
-            <div class="w-full md:w-full lg:w-9/12 mx-auto md:mx-0">
+            <div class="w-full mx-auto md:mx-0 ">
             <img src="/doggie1.png" alt="" >
             </div>
         </div>
     </div>
 
     <!-- About -->
-    <div class="bg-[#FBF3DF] px-5 xl:px-10 h-screen flex justify-center">
-        <div
-            class="flex flex-col text-center md:text-left md:flex-row h-screen justify-evenly md:items-center"
-        >
-            <div class="w-full md:w-full lg:w-9/12 mx-auto md:mx-0 flex justify-center">
-            <img src="/about.jpg" alt="" class=" p-20">
-            </div>
-
-            <div class="flex flex-col w-full">
+    <div class="bg-[#FBF3DF] px-6 mx-auto">
+    <div class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto text-gray-900">
+    <div class="flex flex-col justify-center">
+        <img src="/about.jpg" alt="" class="">
+    </div>
+    <div class="">
+        <div class="flex flex-col w-full">
             <h1 class="text-5xl text-gray-700 font-bold">ABOUT US</h1>
-            <!-- <p class="w-5/12 mx-auto md:mx-0 text-gray-700 my-5"> -->
-            <p class="text-gray-700 my-5 w-10/12 mx-auto md:mx-0">
+            <p class="text-gray-700 my-5">
                 At Tail Wags & Treats, we are passionate about providing high-quality products and exceptional services to pet owners everywhere. Our store is filled with a wide range of products designed to meet the needs of every type of pet, from dogs and cats to birds, fish, and small animals.
             </p>
-            <p class="text-gray-700 my-5 w-10/12 mx-auto md:mx-0">
+            <p class="text-gray-700">
             We believe that every pet deserves the very best, and that's why we offer a 100% satisfaction guarantee on all of our products. So come on in and discover the perfect products for your furry friend today!</p>
             
-            <ul class="w-10/12 my-7 space-y-1 text-gray-500 list-inside dark:text-gray-400 mx-auto md:mx-0">
+            <ul class="my-7 space-y-1 text-gray-500 list-inside dark:text-gray-400">
                 <li class="flex items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-10 h-10 mr-1.5 text-green-500 dark:text-green-400 flex-shrink-0">
                     <path fill-rule="evenodd" d="M8.603 3.799A4.49 4.49 0 0112 2.25c1.357 0 2.573.6 3.397 1.549a4.49 4.49 0 013.498 1.307 4.491 4.491 0 011.307 3.497A4.49 4.49 0 0121.75 12a4.49 4.49 0 01-1.549 3.397 4.491 4.491 0 01-1.307 3.497 4.491 4.491 0 01-3.497 1.307A4.49 4.49 0 0112 21.75a4.49 4.49 0 01-3.397-1.549 4.49 4.49 0 01-3.498-1.306 4.491 4.491 0 01-1.307-3.498A4.49 4.49 0 012.25 12c0-1.357.6-2.573 1.549-3.397a4.49 4.49 0 011.307-3.497 4.49 4.49 0 013.497-1.307zm7.007 6.387a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd" />
@@ -71,8 +66,9 @@
             <div class="mb-16">
                 <button class="rounded-full font-bold py-5 w-48 bg-orange-500 hover:bg-orange-200 text-white">More about us</button>
             </div>
-            </div>
         </div>
+    </div>
+    </div>
     </div>
 
     <!-- Brand -->
@@ -92,7 +88,7 @@
     </div>
 
     <!-- Contact -->
-    <div class="bg-[#FBF3DF]  px-6 mx-auto">
+    <div class="bg-[#FBF3DF] px-6 mx-auto">
         <div
         class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto text-gray-900">
         <div class="flex flex-col justify-between">
@@ -122,7 +118,6 @@
                     Metro Manila, Philippines
                 </li>
             </ul>
-            <p class="text-gray-500 mt-16 italic">We look forward to hearing from you!</p>
           </div>
           
         </div>
