@@ -8,7 +8,7 @@
             class="flex flex-col text-center md:text-left md:flex-row h-screen justify-evenly md:items-center"
         >
             <div class="flex flex-col w-full">
-            <h1 class="text-6xl text-white font-bold">Get the clawsome <br> goods for your pets</h1>
+            <h1 class="text-7xl text-white font-bold">Get the clawsome <br> goods for your pets</h1>
             <p class="w-5/12 mx-auto md:mx-0 text-white my-5">
                 Because every pet deserves the paw-some life.
             </p>
@@ -18,7 +18,7 @@
             </div>
 
             <div class="w-full md:w-full lg:w-9/12 mx-auto md:mx-0">
-            <img src="#" alt="" >
+            <img src="/doggie1.png" alt="" >
             </div>
         </div>
     </div>
@@ -169,7 +169,6 @@
 </template>
 
 <script setup>
-
 </script>
 
 <style>
