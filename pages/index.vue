@@ -1,22 +1,22 @@
 <template>
-<div class="bg-orange-600 bg-pattern bg-fixed bg-contain">
+<div class="bg-[#fb7203]">
     <Navbar />
 
     <!-- Hero -->
-    <div class="px-5 xl:px-10 ">
+    <div class="px-5 xl:px-10 body-color bg-fixed py-10">
         <div class="flex flex-col text-center md:text-left md:flex-row md:items-center">
-            <div class="flex flex-col w-11/12">
+            <div class="flex flex-col w-11/12 ">
             <h1 class="text-7xl text-white font-bold">Get the clawsome <br> goods for your pets</h1>
             <p class="mx-auto md:mx-0 text-white my-5">
                 Because every pet deserves the paw-some life.
             </p>
-            <div class="">
-                <button class="rounded-full font-bold py-5 w-48 bg-yellow-500 text-white">Shop Now</button>
+            <div class="my-5">
+                <button class="rounded-full font-bold py-5 w-48 bg-[#FBF3DF] text-orange-500 hover:bg-orange-500 hover:text-white">Shop Now</button>
             </div>
             </div>
 
-            <div class="flex flex-col w-1/2 mx-auto md:mx-0 ">
-            <img src="/doggie1.png" alt="" >
+            <div class="flex flex-col w-1/2 mx-auto md:mx-0 bg-fixed">
+            <img src="/photo-petshop-removebg-preview.png" alt="" >
             </div>
         </div>
     </div>
@@ -25,7 +25,7 @@
     <div class="bg-[#FBF3DF] px-6 mx-auto">
     <div class="max-w-screen-xl px-8 grid gap-10 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto text-gray-900">
     <div class="flex flex-col justify-center">
-        <img src="/about.jpg" alt="" class="rounded-xl">
+        <img src="/pet_store_equipments-removebg.png" alt="pet_store_equipments" class="rounded-xl">
     </div>
     <div class="">
         <div class="flex flex-col w-full">
