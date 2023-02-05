@@ -4,7 +4,7 @@ A modern and responsive web page promoting pet products or services.
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.jpg)
 
 ### Built with
 
