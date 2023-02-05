@@ -1,13 +1,13 @@
 <template>
-<div class="bg-orange-600">
+<div class="bg-orange-600 bg-pattern bg-fixed bg-contain">
     <Navbar />
 
     <!-- Hero -->
-    <div class="px-5 xl:px-10 my-28">
+    <div class="px-5 xl:px-10 ">
         <div class="flex flex-col text-center md:text-left md:flex-row md:items-center">
-            <div class="flex flex-col w-full">
+            <div class="flex flex-col w-11/12">
             <h1 class="text-7xl text-white font-bold">Get the clawsome <br> goods for your pets</h1>
-            <p class="w-5/12 mx-auto md:mx-0 text-white my-5">
+            <p class="mx-auto md:mx-0 text-white my-5">
                 Because every pet deserves the paw-some life.
             </p>
             <div class="">
