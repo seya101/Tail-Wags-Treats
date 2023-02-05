@@ -1,42 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Tail Wags & Treats
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A modern and responsive web page promoting pet products or services.
 
-## Setup
+### Screenshot
 
-Make sure to install the dependencies:
+![](./screenshot.png)
 
-```bash
-# yarn
-yarn install
+### Built with
 
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- TailwindCSS
+- Vue 3 
